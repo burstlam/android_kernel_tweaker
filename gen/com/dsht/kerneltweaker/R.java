@@ -75,7 +75,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int behindOffset=0x7f010003;
+        public static final int behindOffset=0x7f010005;
         /** <p>Must be a floating point value, such as "<code>1.2</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -83,7 +83,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int behindScrollScale=0x7f010005;
+        public static final int behindScrollScale=0x7f010007;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -93,7 +93,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int behindWidth=0x7f010004;
+        public static final int behindWidth=0x7f010006;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -118,7 +118,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int cb_color=0x7f01000e;
+        public static final int cb_color=0x7f010000;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -128,7 +128,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int cb_pressed_ring_width=0x7f01000f;
+        public static final int cb_pressed_ring_width=0x7f010001;
         /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -198,7 +198,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int fadeDegree=0x7f01000b;
+        public static final int fadeDegree=0x7f01000d;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -206,7 +206,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int fadeEnabled=0x7f01000a;
+        public static final int fadeEnabled=0x7f01000c;
         /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -250,7 +250,7 @@ containing a value of this type.
 <tr><td><code>right</code></td><td>1</td><td></td></tr>
 </table>
          */
-        public static final int mode=0x7f010000;
+        public static final int mode=0x7f010002;
         /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -281,7 +281,7 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int selectorDrawable=0x7f01000d;
+        public static final int selectorDrawable=0x7f01000f;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -289,11 +289,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int selectorEnabled=0x7f01000c;
+        public static final int selectorEnabled=0x7f01000e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int shadowDrawable=0x7f010008;
+        public static final int shadowDrawable=0x7f01000a;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -303,7 +303,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int shadowWidth=0x7f010009;
+        public static final int shadowWidth=0x7f01000b;
         /** <p>Must be a floating point value, such as "<code>1.2</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -330,7 +330,7 @@ containing a value of this type.
 <tr><td><code>fullscreen</code></td><td>1</td><td></td></tr>
 </table>
          */
-        public static final int touchModeAbove=0x7f010006;
+        public static final int touchModeAbove=0x7f010008;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -341,7 +341,7 @@ containing a value of this type.
 <tr><td><code>fullscreen</code></td><td>1</td><td></td></tr>
 </table>
          */
-        public static final int touchModeBehind=0x7f010007;
+        public static final int touchModeBehind=0x7f010009;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -361,32 +361,32 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int viewAbove=0x7f010001;
+        public static final int viewAbove=0x7f010003;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int viewBehind=0x7f010002;
+        public static final int viewBehind=0x7f010004;
     }
     public static final class bool {
         /**  If false, user can't switch between menu_tabbed and menu_drawer mode 
          */
-        public static final int config_allow_toggle_tabbed=0x7f080005;
+        public static final int config_allow_toggle_tabbed=0x7f070005;
         /**  Whether or not the app is meant to be run as a system app,
          bypassing the need of busybox/su 
          */
-        public static final int config_isSystemApp=0x7f080002;
+        public static final int config_isSystemApp=0x7f070002;
         /**  Whether or not to only show performance-related options 
          */
-        public static final int config_showPerformanceOnly=0x7f080003;
+        public static final int config_showPerformanceOnly=0x7f070003;
         /**  If true, menu_tabbed view is used, else it uses the menu_drawer mode 
          */
-        public static final int config_use_tabbed=0x7f080004;
+        public static final int config_use_tabbed=0x7f070004;
         /** Enable automatic activity tracking
          */
-        public static final int ga_autoActivityTracking=0x7f080000;
+        public static final int ga_autoActivityTracking=0x7f070000;
         /** Enable automatic exception tracking
          */
-        public static final int ga_reportUncaughtExceptions=0x7f080001;
+        public static final int ga_reportUncaughtExceptions=0x7f070001;
     }
     public static final class color {
         public static final int holo_white_normal=0x7f0b0003;
@@ -519,108 +519,108 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int view_pager_background_texture_light=0x7f020064;
     }
     public static final class id {
-        public static final int TextView01=0x7f060024;
-        public static final int TextView02=0x7f060023;
-        public static final int View2=0x7f060020;
-        public static final int action_add=0x7f06005e;
-        public static final int action_boot=0x7f06005f;
-        public static final int action_delete=0x7f06005d;
-        public static final int action_edit=0x7f060062;
-        public static final int action_minus=0x7f060063;
-        public static final int action_plus=0x7f060061;
-        public static final int activity_container=0x7f06000c;
-        public static final int backup_boot=0x7f060017;
-        public static final int backup_recovery=0x7f06001c;
-        public static final int btn_apply=0x7f06003b;
-        public static final int btn_cancel=0x7f06003c;
-        public static final int btn_layout=0x7f06003a;
-        public static final int calendar_color_view=0x7f06002a;
-        public static final int cancel=0x7f060032;
-        public static final int cb=0x7f060043;
-        public static final int cb_boot=0x7f060010;
-        public static final int cb_cache=0x7f060011;
-        public static final int cb_compression=0x7f060013;
-        public static final int cb_data=0x7f06000e;
-        public static final int cb_md5=0x7f060014;
-        public static final int cb_recovery=0x7f060012;
-        public static final int cb_secure=0x7f06000f;
-        public static final int cb_system=0x7f06000d;
-        public static final int clickRemove=0x7f060005;
-        public static final int color_picker=0x7f060027;
-        public static final int color_picker_checkmark=0x7f060029;
-        public static final int color_picker_swatch=0x7f060028;
-        public static final int cpu_info=0x7f06002c;
-        public static final int cpu_info_core=0x7f06002e;
-        public static final int cpu_info_freq=0x7f06002f;
-        public static final int cpu_info_list=0x7f060052;
-        public static final int currvalue=0x7f060047;
-        public static final int dslist=0x7f060031;
-        public static final int empty=0x7f060022;
-        public static final int et=0x7f060030;
-        public static final int et_name=0x7f060016;
-        public static final int filename=0x7f060025;
-        public static final int flingRemove=0x7f060006;
-        public static final int fullscreen=0x7f060003;
-        public static final int help=0x7f060060;
-        public static final int icon=0x7f060037;
-        public static final int image=0x7f060018;
-        public static final int image2=0x7f06001d;
-        public static final int imageView1=0x7f060039;
-        public static final int info=0x7f060038;
-        public static final int item_container=0x7f060034;
-        public static final int kernel_info=0x7f06002b;
-        public static final int left=0x7f060000;
-        public static final int list=0x7f06003d;
-        public static final int margin=0x7f060002;
-        public static final int mem_info=0x7f06002d;
-        public static final int menu_frame=0x7f060040;
-        public static final int menu_header=0x7f060041;
-        public static final int name=0x7f060035;
-        public static final int navbarlist=0x7f060021;
-        public static final int onDown=0x7f060007;
-        public static final int onLongPress=0x7f060009;
-        public static final int onMove=0x7f060008;
-        public static final int pager=0x7f06000b;
-        public static final int preset_layout=0x7f06003e;
-        public static final int reboot=0x7f060033;
-        public static final int refresh=0x7f06005c;
-        public static final int reset=0x7f060064;
-        public static final int restore=0x7f060065;
-        public static final int right=0x7f060001;
-        public static final int sb_blur=0x7f06005b;
-        public static final int scrollView1=0x7f06003f;
-        public static final int seek_bar=0x7f060049;
-        public static final int seekbar=0x7f060046;
-        public static final int seekbar_dialog=0x7f060048;
-        public static final int selected_view=0x7f060004;
-        public static final int separator=0x7f060042;
-        public static final int setting_text=0x7f06004a;
-        public static final int slidingmenumain=0x7f06004b;
-        public static final int speed=0x7f060051;
-        public static final int summary=0x7f060045;
-        public static final int summaryboot=0x7f06001a;
-        public static final int summaryrecovery=0x7f06001f;
-        public static final int tabs=0x7f06000a;
-        public static final int text=0x7f060015;
-        public static final int textView1=0x7f06005a;
-        public static final int title=0x7f060044;
-        public static final int titleboot=0x7f060019;
-        public static final int titlerecovery=0x7f06001e;
-        public static final int tv_boot=0x7f060026;
-        public static final int ui_additional_states=0x7f060056;
-        public static final int ui_bar=0x7f060050;
-        public static final int ui_duration_text=0x7f06004f;
-        public static final int ui_freq_text=0x7f06004d;
-        public static final int ui_header_additional_states=0x7f060055;
-        public static final int ui_header_total_state_time=0x7f060053;
-        public static final int ui_percentage_text=0x7f06004e;
-        public static final int ui_state_row=0x7f06004c;
-        public static final int ui_states_view=0x7f060057;
-        public static final int ui_states_warning=0x7f060058;
-        public static final int ui_total_state_time=0x7f060054;
-        public static final int value=0x7f060036;
-        public static final int view1=0x7f06001b;
-        public static final int wall=0x7f060059;
+        public static final int TextView01=0x7f080024;
+        public static final int TextView02=0x7f080023;
+        public static final int View2=0x7f080020;
+        public static final int action_add=0x7f08005e;
+        public static final int action_boot=0x7f08005f;
+        public static final int action_delete=0x7f08005d;
+        public static final int action_edit=0x7f080062;
+        public static final int action_minus=0x7f080063;
+        public static final int action_plus=0x7f080061;
+        public static final int activity_container=0x7f08000c;
+        public static final int backup_boot=0x7f080017;
+        public static final int backup_recovery=0x7f08001c;
+        public static final int btn_apply=0x7f08003b;
+        public static final int btn_cancel=0x7f08003c;
+        public static final int btn_layout=0x7f08003a;
+        public static final int calendar_color_view=0x7f08002a;
+        public static final int cancel=0x7f080032;
+        public static final int cb=0x7f080043;
+        public static final int cb_boot=0x7f080010;
+        public static final int cb_cache=0x7f080011;
+        public static final int cb_compression=0x7f080013;
+        public static final int cb_data=0x7f08000e;
+        public static final int cb_md5=0x7f080014;
+        public static final int cb_recovery=0x7f080012;
+        public static final int cb_secure=0x7f08000f;
+        public static final int cb_system=0x7f08000d;
+        public static final int clickRemove=0x7f080004;
+        public static final int color_picker=0x7f080027;
+        public static final int color_picker_checkmark=0x7f080029;
+        public static final int color_picker_swatch=0x7f080028;
+        public static final int cpu_info=0x7f08002c;
+        public static final int cpu_info_core=0x7f08002e;
+        public static final int cpu_info_freq=0x7f08002f;
+        public static final int cpu_info_list=0x7f080052;
+        public static final int currvalue=0x7f080047;
+        public static final int dslist=0x7f080031;
+        public static final int empty=0x7f080022;
+        public static final int et=0x7f080030;
+        public static final int et_name=0x7f080016;
+        public static final int filename=0x7f080025;
+        public static final int flingRemove=0x7f080005;
+        public static final int fullscreen=0x7f080003;
+        public static final int help=0x7f080060;
+        public static final int icon=0x7f080037;
+        public static final int image=0x7f080018;
+        public static final int image2=0x7f08001d;
+        public static final int imageView1=0x7f080039;
+        public static final int info=0x7f080038;
+        public static final int item_container=0x7f080034;
+        public static final int kernel_info=0x7f08002b;
+        public static final int left=0x7f080000;
+        public static final int list=0x7f08003d;
+        public static final int margin=0x7f080002;
+        public static final int mem_info=0x7f08002d;
+        public static final int menu_frame=0x7f080040;
+        public static final int menu_header=0x7f080041;
+        public static final int name=0x7f080035;
+        public static final int navbarlist=0x7f080021;
+        public static final int onDown=0x7f080006;
+        public static final int onLongPress=0x7f080008;
+        public static final int onMove=0x7f080007;
+        public static final int pager=0x7f08000b;
+        public static final int preset_layout=0x7f08003e;
+        public static final int reboot=0x7f080033;
+        public static final int refresh=0x7f08005c;
+        public static final int reset=0x7f080064;
+        public static final int restore=0x7f080065;
+        public static final int right=0x7f080001;
+        public static final int sb_blur=0x7f08005b;
+        public static final int scrollView1=0x7f08003f;
+        public static final int seek_bar=0x7f080049;
+        public static final int seekbar=0x7f080046;
+        public static final int seekbar_dialog=0x7f080048;
+        public static final int selected_view=0x7f080009;
+        public static final int separator=0x7f080042;
+        public static final int setting_text=0x7f08004a;
+        public static final int slidingmenumain=0x7f08004b;
+        public static final int speed=0x7f080051;
+        public static final int summary=0x7f080045;
+        public static final int summaryboot=0x7f08001a;
+        public static final int summaryrecovery=0x7f08001f;
+        public static final int tabs=0x7f08000a;
+        public static final int text=0x7f080015;
+        public static final int textView1=0x7f08005a;
+        public static final int title=0x7f080044;
+        public static final int titleboot=0x7f080019;
+        public static final int titlerecovery=0x7f08001e;
+        public static final int tv_boot=0x7f080026;
+        public static final int ui_additional_states=0x7f080056;
+        public static final int ui_bar=0x7f080050;
+        public static final int ui_duration_text=0x7f08004f;
+        public static final int ui_freq_text=0x7f08004d;
+        public static final int ui_header_additional_states=0x7f080055;
+        public static final int ui_header_total_state_time=0x7f080053;
+        public static final int ui_percentage_text=0x7f08004e;
+        public static final int ui_state_row=0x7f08004c;
+        public static final int ui_states_view=0x7f080057;
+        public static final int ui_states_warning=0x7f080058;
+        public static final int ui_total_state_time=0x7f080054;
+        public static final int value=0x7f080036;
+        public static final int view1=0x7f08001b;
+        public static final int wall=0x7f080059;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -671,463 +671,488 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int time_in_state_menu=0x7f0d0007;
     }
     public static final class string {
-        public static final int about_body=0x7f07000a;
-        public static final int about_ok=0x7f070009;
-        public static final int action_settings=0x7f070006;
-        public static final int app_name=0x7f070005;
-        public static final int apply_values=0x7f0700a1;
-        public static final int arrow_down=0x7f070109;
-        public static final int arrow_right=0x7f070108;
-        public static final int bad_zip=0x7f0700e5;
-        public static final int bb_desc=0x7f070017;
-        public static final int bb_title=0x7f070016;
-        public static final int bk_boot=0x7f07000c;
-        public static final int bk_boot_desc=0x7f07000d;
-        public static final int bk_comp=0x7f07000f;
-        public static final int bk_md5=0x7f070010;
-        public static final int bk_recovery=0x7f07000b;
-        public static final int bk_recovery_desc=0x7f07000e;
-        public static final int bkexit=0x7f0700d4;
-        public static final int bltimeout_title=0x7f07007b;
+        public static final int about_body=0x7f060021;
+        public static final int about_ok=0x7f060020;
+        public static final int action_settings=0x7f060006;
+        public static final int android_secure=0x7f060015;
+        public static final int app_name=0x7f060005;
+        public static final int apply=0x7f060009;
+        public static final int apply_values=0x7f0600b8;
+        public static final int arrow_down=0x7f060120;
+        public static final int arrow_right=0x7f06011f;
+        public static final int backup_name=0x7f060019;
+        public static final int backups_display=0x7f06001e;
+        public static final int bad_zip=0x7f0600fc;
+        public static final int bb_desc=0x7f06002e;
+        public static final int bb_title=0x7f06002d;
+        public static final int bk_boot=0x7f060023;
+        public static final int bk_boot_desc=0x7f060024;
+        public static final int bk_comp=0x7f060026;
+        public static final int bk_md5=0x7f060027;
+        public static final int bk_recovery=0x7f060022;
+        public static final int bk_recovery_desc=0x7f060025;
+        public static final int bkexit=0x7f0600eb;
+        public static final int bltimeout_title=0x7f060092;
+        /**  Custom Strings 
+         */
+        public static final int blur_radius=0x7f060008;
         /**  blx 
          */
-        public static final int blx_info=0x7f070070;
-        public static final int blx_title=0x7f070074;
-        public static final int btn_choose=0x7f0700cf;
-        public static final int btncleanall=0x7f0700d7;
-        public static final int buildprop_settings_warning=0x7f070118;
-        public static final int buildprop_summary=0x7f070127;
-        public static final int buildprop_title=0x7f070117;
-        public static final int cancel=0x7f070040;
-        public static final int clean_files_msg=0x7f0700d8;
-        public static final int clear=0x7f0700c3;
-        public static final int closebtn=0x7f0700e6;
+        public static final int blx_info=0x7f060087;
+        public static final int blx_title=0x7f06008b;
+        public static final int boot=0x7f060016;
+        public static final int btn_choose=0x7f0600e6;
+        public static final int btncleanall=0x7f0600ee;
+        public static final int buildprop_settings_warning=0x7f06012f;
+        public static final int buildprop_summary=0x7f06013e;
+        public static final int buildprop_title=0x7f06012e;
+        public static final int cache=0x7f060017;
+        public static final int cancel=0x7f060057;
+        public static final int clean_files_msg=0x7f0600ef;
+        public static final int clear=0x7f0600da;
+        public static final int closebtn=0x7f0600fd;
         /**  Default title for color picker dialog [CHAR LIMIT=30] 
          */
-        public static final int color_picker_default_title=0x7f070001;
+        public static final int color_picker_default_title=0x7f060001;
         /**  Content description for a color square. 
          */
-        public static final int color_swatch_description=0x7f070002;
+        public static final int color_swatch_description=0x7f060002;
         /**  Content description for a selected color square. 
          */
-        public static final int color_swatch_description_selected=0x7f070003;
-        public static final int core=0x7f070045;
-        public static final int core_offline=0x7f070044;
-        public static final int cpu_adv_gov_desc=0x7f07002b;
-        public static final int cpu_adv_gov_title=0x7f07002a;
-        public static final int cpu_adv_quiet_desc=0x7f07002d;
-        public static final int cpu_adv_quiet_title=0x7f07002c;
-        public static final int cpu_advanced=0x7f070029;
-        public static final int cpu_cpuquiet_desc=0x7f070028;
-        public static final int cpu_cpuquiet_title=0x7f070027;
-        public static final int cpu_governor=0x7f070025;
-        public static final int cpu_hotplug=0x7f070026;
-        public static final int cpu_info=0x7f0700b6;
-        public static final int cpu_info_list_header=0x7f070041;
-        public static final int cpu_max=0x7f070023;
-        public static final int cpu_min=0x7f070024;
-        public static final int cpu_speed_header=0x7f070042;
-        public static final int current=0x7f0700a3;
-        public static final int current_max=0x7f07003a;
-        public static final int current_min=0x7f07003b;
+        public static final int color_swatch_description_selected=0x7f060003;
+        public static final int command=0x7f060012;
+        public static final int core=0x7f06005c;
+        public static final int core_offline=0x7f06005b;
+        public static final int cpu_adv_gov_desc=0x7f060042;
+        public static final int cpu_adv_gov_title=0x7f060041;
+        public static final int cpu_adv_quiet_desc=0x7f060044;
+        public static final int cpu_adv_quiet_title=0x7f060043;
+        public static final int cpu_advanced=0x7f060040;
+        public static final int cpu_cpuquiet_desc=0x7f06003f;
+        public static final int cpu_cpuquiet_title=0x7f06003e;
+        public static final int cpu_governor=0x7f06003c;
+        public static final int cpu_hotplug=0x7f06003d;
+        public static final int cpu_info=0x7f0600cd;
+        public static final int cpu_info_list_header=0x7f060058;
+        public static final int cpu_max=0x7f06003a;
+        public static final int cpu_min=0x7f06003b;
+        public static final int cpu_speed_header=0x7f060059;
+        public static final int current=0x7f0600ba;
+        public static final int current_max=0x7f060051;
+        public static final int current_min=0x7f060052;
         /**  CPU settings 
          */
-        public static final int current_speed=0x7f070039;
-        public static final int db_exit=0x7f070183;
-        public static final int deep_sleep=0x7f0700b4;
-        public static final int defcolor=0x7f070004;
-        public static final int del_file_msg=0x7f0700e8;
-        public static final int delallbtn=0x7f0700e7;
+        public static final int current_speed=0x7f060050;
+        public static final int data=0x7f060014;
+        public static final int db_exit=0x7f06019a;
+        public static final int deep_sleep=0x7f0600cb;
+        public static final int defcolor=0x7f060004;
+        public static final int del_file_msg=0x7f0600ff;
+        public static final int delallbtn=0x7f0600fe;
         /**  Color picker 
          */
-        public static final int dialog_color_picker=0x7f070106;
-        public static final int dir=0x7f0700d3;
-        public static final int dir_parent=0x7f0700d2;
-        public static final int dirty_background_title=0x7f0700a9;
-        public static final int dirty_expire_title=0x7f0700aa;
-        public static final int dirty_ratio_summary=0x7f0700a8;
-        public static final int dirty_ratio_title=0x7f0700a7;
-        public static final int dirty_writeback_title=0x7f0700ab;
-        public static final int dm_init_d_error=0x7f070182;
+        public static final int dialog_color_picker=0x7f06011d;
+        public static final int dir=0x7f0600ea;
+        public static final int dir_parent=0x7f0600e9;
+        public static final int dirty_background_title=0x7f0600c0;
+        public static final int dirty_expire_title=0x7f0600c1;
+        public static final int dirty_ratio_summary=0x7f0600bf;
+        public static final int dirty_ratio_title=0x7f0600be;
+        public static final int dirty_writeback_title=0x7f0600c2;
+        public static final int dm_init_d_error=0x7f060199;
         /**  dsync 
          */
-        public static final int dsync_info=0x7f070075;
-        public static final int dt_free_memory=0x7f07004b;
-        public static final int dt_init_d_error=0x7f070181;
-        public static final int dt_read_ahead=0x7f07004c;
-        public static final int dynamic_write_back_title=0x7f07008b;
-        public static final int dynamic_writeback_active_title=0x7f07008d;
+        public static final int dsync_info=0x7f06008c;
+        public static final int dt_free_memory=0x7f060062;
+        public static final int dt_init_d_error=0x7f060198;
+        public static final int dt_read_ahead=0x7f060063;
+        public static final int dynamic_write_back_title=0x7f0600a2;
+        public static final int dynamic_writeback_active_title=0x7f0600a4;
         /**  dynamic write back 
          */
-        public static final int dynamic_writeback_info=0x7f07008a;
-        public static final int dynamic_writeback_suspend_title=0x7f07008e;
-        public static final int emp_desc=0x7f070013;
-        public static final int emp_title=0x7f070012;
-        public static final int fast_charge_notification_message=0x7f070055;
-        public static final int fast_charge_notification_title=0x7f070054;
-        public static final int fast_charge_warning=0x7f070053;
-        public static final int filesstr=0x7f0700d9;
-        public static final int first_run_message=0x7f0700bb;
-        public static final int first_run_title=0x7f0700b8;
-        public static final int fix_perms_msg=0x7f0700e0;
-        public static final int fix_perms_title=0x7f0700df;
-        public static final int flash_info=0x7f0700d1;
-        public static final int free=0x7f0700e2;
-        public static final int freeze_msg=0x7f0700fa;
-        public static final int freq=0x7f0700a2;
+        public static final int dynamic_writeback_info=0x7f0600a1;
+        public static final int dynamic_writeback_suspend_title=0x7f0600a5;
+        public static final int emp_desc=0x7f06002a;
+        public static final int emp_title=0x7f060029;
+        public static final int empty=0x7f06000f;
+        public static final int fast_charge_notification_message=0x7f06006c;
+        public static final int fast_charge_notification_title=0x7f06006b;
+        public static final int fast_charge_warning=0x7f06006a;
+        public static final int filesstr=0x7f0600f0;
+        public static final int first_run_message=0x7f0600d2;
+        public static final int first_run_title=0x7f0600cf;
+        public static final int fix_perms_msg=0x7f0600f7;
+        public static final int fix_perms_title=0x7f0600f6;
+        public static final int flash_info=0x7f0600e8;
+        public static final int free=0x7f0600f9;
+        public static final int freeze_msg=0x7f060111;
+        public static final int freq=0x7f0600b9;
         /** Replace placeholder ID with your tracking ID
          */
-        public static final int ga_trackingId=0x7f070000;
-        public static final int gift=0x7f070019;
-        public static final int gov_title=0x7f07002e;
-        public static final int governor=0x7f07003c;
-        public static final int gpu_category=0x7f07002f;
-        public static final int gpu_freq_desc=0x7f070031;
-        public static final int gpu_freq_title=0x7f070030;
+        public static final int ga_trackingId=0x7f060000;
+        public static final int gift=0x7f060030;
+        public static final int gov_title=0x7f060045;
+        public static final int governor=0x7f060053;
+        public static final int gpu_category=0x7f060046;
+        public static final int gpu_freq_desc=0x7f060048;
+        public static final int gpu_freq_title=0x7f060047;
         /**  Init.d 
          */
-        public static final int header_summary_init_d=0x7f070147;
-        public static final int hello_world=0x7f070007;
-        public static final int hex=0x7f07010a;
-        public static final int hex_hint=0x7f07010b;
-        public static final int home_allowed_irq_title=0x7f070082;
-        public static final int home_report_wait_title=0x7f070083;
-        public static final int ics_color=0x7f07010d;
-        public static final int init_d_title=0x7f070148;
-        public static final int io=0x7f07003d;
-        public static final int kernel_img_title=0x7f0700cb;
+        public static final int header_summary_init_d=0x7f06015e;
+        public static final int hello_world=0x7f060007;
+        public static final int hex=0x7f060121;
+        public static final int hex_hint=0x7f060122;
+        public static final int home_allowed_irq_title=0x7f060099;
+        public static final int home_report_wait_title=0x7f06009a;
+        public static final int ics_color=0x7f060124;
+        public static final int init_d_title=0x7f06015f;
+        public static final int io=0x7f060054;
+        public static final int kernel_img_title=0x7f0600e2;
         /**  CPU info 
          */
-        public static final int kernel_info=0x7f0700b5;
-        public static final int ksm_adv_title=0x7f0700eb;
-        public static final int ksm_fullscans=0x7f0700ec;
-        public static final int ksm_pagshared=0x7f0700ed;
-        public static final int ksm_pagsharing=0x7f0700ee;
-        public static final int ksm_pagtoscan=0x7f0700f1;
-        public static final int ksm_pagunshared=0x7f0700ef;
-        public static final int ksm_pagvolatile=0x7f0700f0;
-        public static final int ksm_sleep=0x7f0700f2;
-        public static final int list_command_empty=0x7f070011;
-        public static final int mem_info=0x7f0700b7;
-        public static final int menu_add=0x7f07001d;
-        public static final int menu_boot=0x7f07001e;
-        public static final int menu_command=0x7f07001f;
-        public static final int menu_del=0x7f07001c;
-        public static final int menu_glossary=0x7f070032;
-        public static final int menu_less=0x7f070020;
-        public static final int menu_plus=0x7f070021;
-        public static final int menuback_first_err_wait_title=0x7f070087;
-        public static final int menuback_interrupt_checks_title=0x7f070086;
-        public static final int menuback_last_err_wait_title=0x7f070088;
-        public static final int min_free_title=0x7f0700ac;
-        public static final int mt_app_settings=0x7f070034;
-        public static final int mt_gov_ctrl=0x7f070100;
-        public static final int mt_minus25=0x7f070038;
-        public static final int mt_plus25=0x7f070037;
+        public static final int kernel_info=0x7f0600cc;
+        public static final int ksm_adv_title=0x7f060102;
+        public static final int ksm_fullscans=0x7f060103;
+        public static final int ksm_pagshared=0x7f060104;
+        public static final int ksm_pagsharing=0x7f060105;
+        public static final int ksm_pagtoscan=0x7f060108;
+        public static final int ksm_pagunshared=0x7f060106;
+        public static final int ksm_pagvolatile=0x7f060107;
+        public static final int ksm_sleep=0x7f060109;
+        public static final int list_command_empty=0x7f060028;
+        public static final int medium_text=0x7f06000d;
+        public static final int mem_info=0x7f0600ce;
+        public static final int menu_add=0x7f060034;
+        public static final int menu_boot=0x7f060035;
+        public static final int menu_command=0x7f060036;
+        public static final int menu_del=0x7f060033;
+        public static final int menu_glossary=0x7f060049;
+        public static final int menu_less=0x7f060037;
+        public static final int menu_plus=0x7f060038;
+        public static final int menuback_first_err_wait_title=0x7f06009e;
+        public static final int menuback_interrupt_checks_title=0x7f06009d;
+        public static final int menuback_last_err_wait_title=0x7f06009f;
+        public static final int min_free_title=0x7f0600c3;
+        public static final int mt_app_settings=0x7f06004b;
+        public static final int mt_gov_ctrl=0x7f060117;
+        public static final int mt_minus25=0x7f06004f;
+        public static final int mt_plus25=0x7f06004e;
         /**  Menu 
          */
-        public static final int mt_refresh=0x7f070033;
-        public static final int mt_reset=0x7f070035;
-        public static final int mt_restore=0x7f070036;
-        public static final int mt_system_packs=0x7f0700f8;
-        public static final int mt_user_packs=0x7f0700f9;
-        public static final int navigation_drawer_close=0x7f070110;
-        public static final int navigation_drawer_open=0x7f07010f;
+        public static final int mt_refresh=0x7f06004a;
+        public static final int mt_reset=0x7f06004c;
+        public static final int mt_restore=0x7f06004d;
+        public static final int mt_system_packs=0x7f06010f;
+        public static final int mt_user_packs=0x7f060110;
+        public static final int navigation_drawer_close=0x7f060127;
+        public static final int navigation_drawer_open=0x7f060126;
         /**  Drawer 
          */
-        public static final int navigation_drawer_toggle=0x7f07010e;
-        public static final int navigation_toggle_drawer=0x7f070111;
-        public static final int navigation_toggle_tabbed=0x7f070112;
-        public static final int no_proc=0x7f07006d;
-        public static final int no_residuals=0x7f0700da;
-        public static final int no_states_file_found=0x7f0700b3;
-        public static final int nonprop_cat_title=0x7f070119;
-        public static final int not_supported=0x7f0700a5;
-        public static final int ok=0x7f07003f;
-        public static final int optim_db_title=0x7f0700dc;
-        public static final int other_settings_header=0x7f070043;
-        public static final int overcommit_title=0x7f0700ad;
-        public static final int performance_settings_warning_header=0x7f070114;
+        public static final int navigation_drawer_toggle=0x7f060125;
+        public static final int navigation_toggle_drawer=0x7f060128;
+        public static final int navigation_toggle_tabbed=0x7f060129;
+        public static final int no_backups_found=0x7f06001d;
+        public static final int no_proc=0x7f060084;
+        public static final int no_residuals=0x7f0600f1;
+        public static final int no_states_file_found=0x7f0600ca;
+        public static final int nonprop_cat_title=0x7f060130;
+        public static final int not_supported=0x7f0600bc;
+        public static final int ok=0x7f060056;
+        public static final int onehundred_mb=0x7f06000c;
+        public static final int optim_db_title=0x7f0600f3;
+        public static final int other_settings_header=0x7f06005a;
+        public static final int overcommit_title=0x7f0600c4;
+        public static final int performance_settings_warning_header=0x7f06012b;
         /**  Performance Settings | Warning dialog 
          */
-        public static final int performance_settings_warning_title=0x7f070113;
+        public static final int performance_settings_warning_title=0x7f06012a;
         /**  pfk 
          */
-        public static final int pfk_info=0x7f07007e;
-        public static final int pref_fast_up_alt_summary=0x7f070130;
-        public static final int pref_fast_up_summary=0x7f07012f;
-        public static final int pref_fast_up_title=0x7f07012e;
-        public static final int pref_g_speed_summary=0x7f070140;
-        public static final int pref_g_speed_title=0x7f07013f;
-        public static final int pref_gpu_summary=0x7f070142;
-        public static final int pref_gpu_title=0x7f070141;
-        public static final int pref_jit_summary=0x7f07013c;
-        public static final int pref_jit_title=0x7f07013b;
-        public static final int pref_lcd_alt_summary=0x7f070146;
-        public static final int pref_lcd_default=0x7f070145;
-        public static final int pref_lcd_summary=0x7f070144;
-        public static final int pref_lcd_title=0x7f070143;
-        public static final int pref_max_events_alt_summary=0x7f07011f;
-        public static final int pref_max_events_summary=0x7f07011e;
-        public static final int pref_max_events_title=0x7f07011d;
-        public static final int pref_mod_version_alt_summary=0x7f070136;
-        public static final int pref_mod_version_default=0x7f070137;
-        public static final int pref_mod_version_summary=0x7f070135;
-        public static final int pref_mod_version_title=0x7f070134;
-        public static final int pref_prox_delay_alt_summary=0x7f070133;
-        public static final int pref_prox_delay_summary=0x7f070132;
-        public static final int pref_prox_delay_title=0x7f070131;
-        public static final int pref_ring_delay_alt_summary=0x7f070122;
-        public static final int pref_ring_delay_summary=0x7f070121;
-        public static final int pref_ring_delay_title=0x7f070120;
-        public static final int pref_sleep_alt_summary=0x7f07013a;
-        public static final int pref_sleep_summary=0x7f070139;
-        public static final int pref_sleep_title=0x7f070138;
-        public static final int pref_tcp_stack_summary=0x7f07013e;
-        public static final int pref_tcp_stack_title=0x7f07013d;
-        public static final int pref_vm_heapsize_alt_summary=0x7f070125;
-        public static final int pref_vm_heapsize_summary=0x7f070124;
-        public static final int pref_vm_heapsize_title=0x7f070123;
-        public static final int pref_wifi_scan_alt_summary=0x7f07011c;
-        public static final int pref_wifi_scan_interval_summary=0x7f07011b;
-        public static final int pref_wifi_scan_interval_title=0x7f07011a;
+        public static final int pfk_info=0x7f060095;
+        public static final int pref_fast_up_alt_summary=0x7f060147;
+        public static final int pref_fast_up_summary=0x7f060146;
+        public static final int pref_fast_up_title=0x7f060145;
+        public static final int pref_g_speed_summary=0x7f060157;
+        public static final int pref_g_speed_title=0x7f060156;
+        public static final int pref_gpu_summary=0x7f060159;
+        public static final int pref_gpu_title=0x7f060158;
+        public static final int pref_jit_summary=0x7f060153;
+        public static final int pref_jit_title=0x7f060152;
+        public static final int pref_lcd_alt_summary=0x7f06015d;
+        public static final int pref_lcd_default=0x7f06015c;
+        public static final int pref_lcd_summary=0x7f06015b;
+        public static final int pref_lcd_title=0x7f06015a;
+        public static final int pref_max_events_alt_summary=0x7f060136;
+        public static final int pref_max_events_summary=0x7f060135;
+        public static final int pref_max_events_title=0x7f060134;
+        public static final int pref_mod_version_alt_summary=0x7f06014d;
+        public static final int pref_mod_version_default=0x7f06014e;
+        public static final int pref_mod_version_summary=0x7f06014c;
+        public static final int pref_mod_version_title=0x7f06014b;
+        public static final int pref_prox_delay_alt_summary=0x7f06014a;
+        public static final int pref_prox_delay_summary=0x7f060149;
+        public static final int pref_prox_delay_title=0x7f060148;
+        public static final int pref_ring_delay_alt_summary=0x7f060139;
+        public static final int pref_ring_delay_summary=0x7f060138;
+        public static final int pref_ring_delay_title=0x7f060137;
+        public static final int pref_sleep_alt_summary=0x7f060151;
+        public static final int pref_sleep_summary=0x7f060150;
+        public static final int pref_sleep_title=0x7f06014f;
+        public static final int pref_tcp_stack_summary=0x7f060155;
+        public static final int pref_tcp_stack_title=0x7f060154;
+        public static final int pref_vm_heapsize_alt_summary=0x7f06013c;
+        public static final int pref_vm_heapsize_summary=0x7f06013b;
+        public static final int pref_vm_heapsize_title=0x7f06013a;
+        public static final int pref_wifi_scan_alt_summary=0x7f060133;
+        public static final int pref_wifi_scan_interval_summary=0x7f060132;
+        public static final int pref_wifi_scan_interval_title=0x7f060131;
         /**  bln 
          */
-        public static final int prefcat_bln=0x7f07006e;
+        public static final int prefcat_bln=0x7f060085;
         /**  bl_timeout 
          */
-        public static final int prefcat_bltimeout=0x7f070079;
+        public static final int prefcat_bltimeout=0x7f060090;
         /**  bl_touch 
          */
-        public static final int prefcat_bltouch=0x7f07007c;
-        public static final int prefcat_blx=0x7f070071;
-        public static final int prefcat_dsync=0x7f070076;
-        public static final int prefcat_fix_perms=0x7f0700de;
-        public static final int prefcat_flash_img=0x7f0700ca;
+        public static final int prefcat_bltouch=0x7f060093;
+        public static final int prefcat_blx=0x7f060088;
+        public static final int prefcat_dsync=0x7f06008d;
+        public static final int prefcat_fix_perms=0x7f0600f5;
+        public static final int prefcat_flash_img=0x7f0600e1;
         /**  Other settings 
          */
-        public static final int prefcat_free_memory=0x7f070046;
+        public static final int prefcat_free_memory=0x7f06005d;
         /**  freezer 
          */
-        public static final int prefcat_freezer=0x7f0700f3;
+        public static final int prefcat_freezer=0x7f06010a;
         /**  2.1.2 
  ksm 
          */
-        public static final int prefcat_ksm=0x7f0700e9;
-        public static final int prefcat_misc_short=0x7f070048;
+        public static final int prefcat_ksm=0x7f060100;
+        public static final int prefcat_misc_short=0x7f06005f;
         /**  minfree 
          */
-        public static final int prefcat_oom=0x7f070056;
-        public static final int prefcat_oom_predefines=0x7f07005d;
-        public static final int prefcat_optim_db=0x7f0700db;
-        public static final int prefcat_pfk=0x7f07007f;
-        public static final int prefcat_read_ahead=0x7f070049;
-        public static final int prefcat_residual_files=0x7f0700d5;
+        public static final int prefcat_oom=0x7f06006d;
+        public static final int prefcat_oom_predefines=0x7f060074;
+        public static final int prefcat_optim_db=0x7f0600f2;
+        public static final int prefcat_pfk=0x7f060096;
+        public static final int prefcat_read_ahead=0x7f060060;
+        public static final int prefcat_residual_files=0x7f0600ec;
         /**  Tools 
          */
-        public static final int prefcat_sh=0x7f0700bf;
-        public static final int prefcat_sys_proc=0x7f070065;
-        public static final int prefcat_tweaks=0x7f070047;
+        public static final int prefcat_sh=0x7f0600d6;
+        public static final int prefcat_sys_proc=0x7f06007c;
+        public static final int prefcat_tweaks=0x7f06005e;
         /**  do not kill proc 
          */
-        public static final int prefcat_user_proc=0x7f070064;
-        public static final int prefcat_vm_settings=0x7f07004a;
-        public static final int prefcat_wipe_cache=0x7f0700c6;
+        public static final int prefcat_user_proc=0x7f06007b;
+        public static final int prefcat_vm_settings=0x7f060061;
+        public static final int prefcat_wipe_cache=0x7f0600dd;
         /**  zRam 
          */
-        public static final int prefcat_zram=0x7f0700fc;
-        public static final int preflogg_fix_perms=0x7f0700e1;
-        public static final int press_color_to_apply=0x7f070107;
-        public static final int propmodder_switches=0x7f070116;
+        public static final int prefcat_zram=0x7f060113;
+        public static final int preflogg_fix_perms=0x7f0600f8;
+        public static final int presets=0x7f06001b;
+        public static final int press_color_to_apply=0x7f06011e;
+        public static final int propmodder_switches=0x7f06012d;
         /**  PropModder 
          */
-        public static final int propmodder_title=0x7f070115;
-        public static final int ps_battery=0x7f070166;
-        public static final int ps_bltimeout=0x7f07007a;
-        public static final int ps_blx_boot=0x7f070073;
-        public static final int ps_clear_data_cache=0x7f070153;
-        public static final int ps_dsync=0x7f070077;
-        public static final int ps_enable_cron=0x7f070155;
-        public static final int ps_enable_sysctl=0x7f07014f;
-        public static final int ps_fast_charge_boot=0x7f070052;
-        public static final int ps_file_system_speedups=0x7f070159;
-        public static final int ps_fix_permissions=0x7f07014d;
-        public static final int ps_free_mem=0x7f070151;
-        public static final int ps_free_memory=0x7f07004e;
-        public static final int ps_free_memory_boot=0x7f07004f;
-        public static final int ps_freeze=0x7f0700f6;
-        public static final int ps_gpurender=0x7f07016c;
-        public static final int ps_home_enabled=0x7f070081;
-        public static final int ps_init_d_credits=0x7f070180;
-        public static final int ps_iostats=0x7f070176;
-        public static final int ps_journalism=0x7f070170;
-        public static final int ps_kernel_img=0x7f0700cc;
-        public static final int ps_loopy_smoothness_tweak=0x7f07017e;
-        public static final int ps_menuback_enabled=0x7f070085;
-        public static final int ps_minfree=0x7f07016a;
-        public static final int ps_optim_db=0x7f0700dd;
-        public static final int ps_pfk_set_on_boot=0x7f070089;
-        public static final int ps_read_ahead=0x7f070051;
-        public static final int ps_recovery_img=0x7f0700ce;
-        public static final int ps_restore_boot=0x7f07006a;
-        public static final int ps_sd_boost=0x7f070157;
-        public static final int ps_setrenice=0x7f070178;
-        public static final int ps_sh=0x7f0700c1;
-        public static final int ps_sleepers=0x7f07016e;
-        public static final int ps_speedy_modified=0x7f07017c;
-        public static final int ps_sqlite3=0x7f070172;
-        public static final int ps_sys_proc=0x7f07006c;
-        public static final int ps_touch=0x7f070168;
-        public static final int ps_tweaks=0x7f07017a;
-        public static final int ps_unfreeze=0x7f0700f7;
-        public static final int ps_use_light_theme=0x7f070102;
-        public static final int ps_user_proc=0x7f07006b;
+        public static final int propmodder_title=0x7f06012c;
+        public static final int ps_battery=0x7f06017d;
+        public static final int ps_bltimeout=0x7f060091;
+        public static final int ps_blx_boot=0x7f06008a;
+        public static final int ps_clear_data_cache=0x7f06016a;
+        public static final int ps_dsync=0x7f06008e;
+        public static final int ps_enable_cron=0x7f06016c;
+        public static final int ps_enable_sysctl=0x7f060166;
+        public static final int ps_fast_charge_boot=0x7f060069;
+        public static final int ps_file_system_speedups=0x7f060170;
+        public static final int ps_fix_permissions=0x7f060164;
+        public static final int ps_free_mem=0x7f060168;
+        public static final int ps_free_memory=0x7f060065;
+        public static final int ps_free_memory_boot=0x7f060066;
+        public static final int ps_freeze=0x7f06010d;
+        public static final int ps_gpurender=0x7f060183;
+        public static final int ps_home_enabled=0x7f060098;
+        public static final int ps_init_d_credits=0x7f060197;
+        public static final int ps_iostats=0x7f06018d;
+        public static final int ps_journalism=0x7f060187;
+        public static final int ps_kernel_img=0x7f0600e3;
+        public static final int ps_loopy_smoothness_tweak=0x7f060195;
+        public static final int ps_menuback_enabled=0x7f06009c;
+        public static final int ps_minfree=0x7f060181;
+        public static final int ps_optim_db=0x7f0600f4;
+        public static final int ps_pfk_set_on_boot=0x7f0600a0;
+        public static final int ps_read_ahead=0x7f060068;
+        public static final int ps_recovery_img=0x7f0600e5;
+        public static final int ps_restore_boot=0x7f060081;
+        public static final int ps_sd_boost=0x7f06016e;
+        public static final int ps_setrenice=0x7f06018f;
+        public static final int ps_sh=0x7f0600d8;
+        public static final int ps_sleepers=0x7f060185;
+        public static final int ps_speedy_modified=0x7f060193;
+        public static final int ps_sqlite3=0x7f060189;
+        public static final int ps_sys_proc=0x7f060083;
+        public static final int ps_touch=0x7f06017f;
+        public static final int ps_tweaks=0x7f060191;
+        public static final int ps_unfreeze=0x7f06010e;
+        public static final int ps_use_light_theme=0x7f060119;
+        public static final int ps_user_proc=0x7f060082;
         /**  VM settings 
          */
-        public static final int ps_vm_set_on_boot=0x7f0700a6;
-        public static final int ps_volt_control=0x7f0700a0;
-        public static final int ps_volt_current_voltage=0x7f07009d;
-        public static final int ps_volt_mhz_voltage=0x7f07009b;
-        public static final int ps_volt_save=0x7f07009c;
-        public static final int ps_volt_setting_to_apply=0x7f07009e;
-        public static final int ps_wifisleep=0x7f070174;
-        public static final int ps_wipe_cache=0x7f0700c8;
-        public static final int ps_zipalign_apks=0x7f07014b;
+        public static final int ps_vm_set_on_boot=0x7f0600bd;
+        public static final int ps_volt_control=0x7f0600b7;
+        public static final int ps_volt_current_voltage=0x7f0600b4;
+        public static final int ps_volt_mhz_voltage=0x7f0600b2;
+        public static final int ps_volt_save=0x7f0600b3;
+        public static final int ps_volt_setting_to_apply=0x7f0600b5;
+        public static final int ps_wifisleep=0x7f06018b;
+        public static final int ps_wipe_cache=0x7f0600df;
+        public static final int ps_zipalign_apks=0x7f060162;
         /**  2.1.3 
          */
-        public static final int ps_zram=0x7f0700ff;
-        public static final int pt_aggressive=0x7f070062;
-        public static final int pt_backup_app_mem=0x7f07015f;
-        public static final int pt_battery=0x7f070165;
-        public static final int pt_bln=0x7f07006f;
-        public static final int pt_bltouch=0x7f07007d;
-        public static final int pt_blx_boot=0x7f070072;
-        public static final int pt_clear_data_cache=0x7f070152;
-        public static final int pt_dsync=0x7f070078;
-        public static final int pt_dynamic_write_back=0x7f07008c;
-        public static final int pt_empty_app_mem=0x7f070162;
-        public static final int pt_enable_cron=0x7f070154;
-        public static final int pt_enable_sysctl=0x7f07014e;
-        public static final int pt_file_system_speedups=0x7f070158;
-        public static final int pt_fix_permissions=0x7f07014c;
-        public static final int pt_foreground_app_mem=0x7f07015a;
-        public static final int pt_free_mem=0x7f070150;
-        public static final int pt_free_memory=0x7f07004d;
-        public static final int pt_freeze=0x7f0700f4;
-        public static final int pt_general=0x7f070149;
-        public static final int pt_gpurender=0x7f07016b;
-        public static final int pt_heavy_weight_app_mem=0x7f07015d;
-        public static final int pt_hidden_app_mem=0x7f070161;
-        public static final int pt_home_app_mem=0x7f070160;
-        public static final int pt_home_enabled=0x7f070080;
-        public static final int pt_init_d_credits=0x7f07017f;
-        public static final int pt_iostats=0x7f070175;
-        public static final int pt_journalism=0x7f07016f;
-        public static final int pt_light=0x7f070060;
-        public static final int pt_loopy_smoothness_tweak=0x7f07017d;
-        public static final int pt_medium=0x7f070061;
-        public static final int pt_menuback_enabled=0x7f070084;
-        public static final int pt_minfree=0x7f070169;
-        public static final int pt_minfree_values=0x7f070164;
-        public static final int pt_oom=0x7f07005e;
-        public static final int pt_perceptible_app_mem=0x7f07015c;
-        public static final int pt_read_ahead=0x7f070050;
-        public static final int pt_read_ahead_kb=0x7f070163;
-        public static final int pt_run_ksm=0x7f0700ea;
-        public static final int pt_run_zram=0x7f0700fd;
-        public static final int pt_sd_boost=0x7f070156;
-        public static final int pt_secondary_server_mem=0x7f07015e;
-        public static final int pt_setrenice=0x7f070177;
-        public static final int pt_sleepers=0x7f07016d;
-        public static final int pt_speedy_modified=0x7f07017b;
-        public static final int pt_sqlite3=0x7f070171;
-        public static final int pt_sys_names_proc=0x7f070069;
-        public static final int pt_sys_proc=0x7f070067;
-        public static final int pt_touch=0x7f070167;
-        public static final int pt_tweaks=0x7f070179;
-        public static final int pt_unfreeze=0x7f0700f5;
+        public static final int ps_zram=0x7f060116;
+        public static final int pt_aggressive=0x7f060079;
+        public static final int pt_backup_app_mem=0x7f060176;
+        public static final int pt_battery=0x7f06017c;
+        public static final int pt_bln=0x7f060086;
+        public static final int pt_bltouch=0x7f060094;
+        public static final int pt_blx_boot=0x7f060089;
+        public static final int pt_clear_data_cache=0x7f060169;
+        public static final int pt_dsync=0x7f06008f;
+        public static final int pt_dynamic_write_back=0x7f0600a3;
+        public static final int pt_empty_app_mem=0x7f060179;
+        public static final int pt_enable_cron=0x7f06016b;
+        public static final int pt_enable_sysctl=0x7f060165;
+        public static final int pt_file_system_speedups=0x7f06016f;
+        public static final int pt_fix_permissions=0x7f060163;
+        public static final int pt_foreground_app_mem=0x7f060171;
+        public static final int pt_free_mem=0x7f060167;
+        public static final int pt_free_memory=0x7f060064;
+        public static final int pt_freeze=0x7f06010b;
+        public static final int pt_general=0x7f060160;
+        public static final int pt_gpurender=0x7f060182;
+        public static final int pt_heavy_weight_app_mem=0x7f060174;
+        public static final int pt_hidden_app_mem=0x7f060178;
+        public static final int pt_home_app_mem=0x7f060177;
+        public static final int pt_home_enabled=0x7f060097;
+        public static final int pt_init_d_credits=0x7f060196;
+        public static final int pt_iostats=0x7f06018c;
+        public static final int pt_journalism=0x7f060186;
+        public static final int pt_light=0x7f060077;
+        public static final int pt_loopy_smoothness_tweak=0x7f060194;
+        public static final int pt_medium=0x7f060078;
+        public static final int pt_menuback_enabled=0x7f06009b;
+        public static final int pt_minfree=0x7f060180;
+        public static final int pt_minfree_values=0x7f06017b;
+        public static final int pt_oom=0x7f060075;
+        public static final int pt_perceptible_app_mem=0x7f060173;
+        public static final int pt_read_ahead=0x7f060067;
+        public static final int pt_read_ahead_kb=0x7f06017a;
+        public static final int pt_run_ksm=0x7f060101;
+        public static final int pt_run_zram=0x7f060114;
+        public static final int pt_sd_boost=0x7f06016d;
+        public static final int pt_secondary_server_mem=0x7f060175;
+        public static final int pt_setrenice=0x7f06018e;
+        public static final int pt_sleepers=0x7f060184;
+        public static final int pt_speedy_modified=0x7f060192;
+        public static final int pt_sqlite3=0x7f060188;
+        public static final int pt_sys_names_proc=0x7f060080;
+        public static final int pt_sys_proc=0x7f06007e;
+        public static final int pt_touch=0x7f06017e;
+        public static final int pt_tweaks=0x7f060190;
+        public static final int pt_unfreeze=0x7f06010c;
         /**  PC Settings 
          */
-        public static final int pt_use_light_theme=0x7f070101;
-        public static final int pt_user_names_proc=0x7f070068;
-        public static final int pt_user_proc=0x7f070066;
-        public static final int pt_ver=0x7f070105;
-        public static final int pt_veryaggressive=0x7f070063;
-        public static final int pt_verylight=0x7f07005f;
-        public static final int pt_visible_app_mem=0x7f07015b;
-        public static final int pt_volt_control=0x7f07009f;
-        public static final int pt_widget_bg_color=0x7f070103;
-        public static final int pt_widget_text_color=0x7f070104;
-        public static final int pt_wifisleep=0x7f070173;
-        public static final int pt_zipalign_apks=0x7f07014a;
-        public static final int rc_desc=0x7f070015;
-        public static final int rc_title=0x7f070014;
-        public static final int recovery_img_title=0x7f0700cd;
-        public static final int residual_files_title=0x7f0700d6;
-        public static final int saved=0x7f0700a4;
-        public static final int set=0x7f07010c;
-        public static final int sh_msg=0x7f0700c2;
-        public static final int sh_title=0x7f0700c0;
-        public static final int showbuild_dialog=0x7f070128;
-        public static final int showbuild_error=0x7f07012a;
-        public static final int showbuild_label=0x7f07012d;
-        public static final int showbuild_loading=0x7f070129;
-        public static final int showbuild_title=0x7f070126;
-        public static final int showbuild_unknown=0x7f07012b;
-        public static final int showbuild_version=0x7f07012c;
-        public static final int size_100_mb=0x7f070093;
-        public static final int size_1024_kb=0x7f070097;
-        public static final int size_128_kb=0x7f070094;
-        public static final int size_2048_kb=0x7f070098;
-        public static final int size_256_kb=0x7f070095;
+        public static final int pt_use_light_theme=0x7f060118;
+        public static final int pt_user_names_proc=0x7f06007f;
+        public static final int pt_user_proc=0x7f06007d;
+        public static final int pt_ver=0x7f06011c;
+        public static final int pt_veryaggressive=0x7f06007a;
+        public static final int pt_verylight=0x7f060076;
+        public static final int pt_visible_app_mem=0x7f060172;
+        public static final int pt_volt_control=0x7f0600b6;
+        public static final int pt_widget_bg_color=0x7f06011a;
+        public static final int pt_widget_text_color=0x7f06011b;
+        public static final int pt_wifisleep=0x7f06018a;
+        public static final int pt_zipalign_apks=0x7f060161;
+        public static final int qqq=0x7f060010;
+        public static final int rc_desc=0x7f06002c;
+        public static final int rc_title=0x7f06002b;
+        public static final int reboot=0x7f06001c;
+        public static final int recovery=0x7f060018;
+        public static final int recovery_img_title=0x7f0600e4;
+        public static final int residual_files_title=0x7f0600ed;
+        public static final int saved=0x7f0600bb;
+        public static final int set=0x7f060123;
+        public static final int set_on_boot=0x7f060011;
+        public static final int sh_msg=0x7f0600d9;
+        public static final int sh_title=0x7f0600d7;
+        public static final int showbuild_dialog=0x7f06013f;
+        public static final int showbuild_error=0x7f060141;
+        public static final int showbuild_label=0x7f060144;
+        public static final int showbuild_loading=0x7f060140;
+        public static final int showbuild_title=0x7f06013d;
+        public static final int showbuild_unknown=0x7f060142;
+        public static final int showbuild_version=0x7f060143;
+        public static final int size_100_mb=0x7f0600aa;
+        public static final int size_1024_kb=0x7f0600ae;
+        public static final int size_128_kb=0x7f0600ab;
+        public static final int size_2048_kb=0x7f0600af;
+        public static final int size_256_kb=0x7f0600ac;
         /**   
          */
-        public static final int size_25_mb=0x7f07008f;
-        public static final int size_4096_kb=0x7f070099;
-        public static final int size_50_mb=0x7f070090;
-        public static final int size_512_kb=0x7f070096;
-        public static final int size_75_mb=0x7f070091;
-        public static final int size_80_mb=0x7f070092;
-        public static final int sob=0x7f07003e;
-        public static final int st_cat=0x7f070018;
-        public static final int su_cancel_message=0x7f0700bd;
-        public static final int su_failed_su_or_busybox=0x7f0700be;
-        public static final int su_failed_title=0x7f0700ba;
-        public static final int su_success_message=0x7f0700bc;
-        public static final int su_success_title=0x7f0700b9;
-        public static final int swappiness_title=0x7f0700ae;
+        public static final int size_25_mb=0x7f0600a6;
+        public static final int size_4096_kb=0x7f0600b0;
+        public static final int size_50_mb=0x7f0600a7;
+        public static final int size_512_kb=0x7f0600ad;
+        public static final int size_75_mb=0x7f0600a8;
+        public static final int size_80_mb=0x7f0600a9;
+        public static final int sob=0x7f060055;
+        public static final int st_cat=0x7f06002f;
+        public static final int su_cancel_message=0x7f0600d4;
+        public static final int su_failed_su_or_busybox=0x7f0600d5;
+        public static final int su_failed_title=0x7f0600d1;
+        public static final int su_success_message=0x7f0600d3;
+        public static final int su_success_title=0x7f0600d0;
+        public static final int summary=0x7f06000b;
+        public static final int summaryggg=0x7f06000e;
+        public static final int swappiness_title=0x7f0600c5;
+        public static final int system=0x7f060013;
+        public static final int textview=0x7f06001a;
         /**  Time in state 
          */
-        public static final int time_in_state=0x7f0700b0;
+        public static final int time_in_state=0x7f0600c7;
+        public static final int title=0x7f06000a;
         /**  About 
          */
-        public static final int title_about=0x7f070008;
-        public static final int title_content_providers=0x7f07005b;
-        public static final int title_empty_app=0x7f07005c;
-        public static final int title_foreground_app=0x7f070057;
-        public static final int title_hidden_app=0x7f07005a;
-        public static final int title_secondary_server=0x7f070059;
-        public static final int title_visible_app=0x7f070058;
-        public static final int total_state_time=0x7f0700b2;
-        public static final int unfreeze_msg=0x7f0700fb;
-        public static final int unsupported_info=0x7f0700d0;
-        public static final int unused_cpu_states=0x7f0700b1;
-        public static final int used=0x7f0700e3;
-        public static final int uv_title=0x7f070022;
-        public static final int vdd_desc=0x7f07001b;
-        public static final int vdd_pref=0x7f07001a;
+        public static final int title_about=0x7f06001f;
+        public static final int title_content_providers=0x7f060072;
+        public static final int title_empty_app=0x7f060073;
+        public static final int title_foreground_app=0x7f06006e;
+        public static final int title_hidden_app=0x7f060071;
+        public static final int title_secondary_server=0x7f060070;
+        public static final int title_visible_app=0x7f06006f;
+        public static final int total_state_time=0x7f0600c9;
+        public static final int unfreeze_msg=0x7f060112;
+        public static final int unsupported_info=0x7f0600e7;
+        public static final int unused_cpu_states=0x7f0600c8;
+        public static final int used=0x7f0600fa;
+        public static final int uv_title=0x7f060039;
+        public static final int vdd_desc=0x7f060032;
+        public static final int vdd_pref=0x7f060031;
         /**  2.1.0 
          */
-        public static final int verify=0x7f0700e4;
-        public static final int vfs_title=0x7f0700af;
+        public static final int verify=0x7f0600fb;
+        public static final int vfs_title=0x7f0600c6;
         /**  Voltage control 
          */
-        public static final int volt_info=0x7f07009a;
-        public static final int wait=0x7f0700c5;
-        public static final int wipe_cache_msg=0x7f0700c9;
-        public static final int wipe_cache_title=0x7f0700c7;
-        public static final int yes=0x7f0700c4;
-        public static final int zram_set_title=0x7f0700fe;
+        public static final int volt_info=0x7f0600b1;
+        public static final int wait=0x7f0600dc;
+        public static final int wipe_cache_msg=0x7f0600e0;
+        public static final int wipe_cache_title=0x7f0600de;
+        public static final int yes=0x7f0600db;
+        public static final int zram_set_title=0x7f060115;
     }
     public static final class style {
         public static final int ActionBar_Style=0x7f0c0005;
@@ -1196,7 +1221,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #CircleAnimatedCheckBox_cb_pressed_ring_width
          */
         public static final int[] CircleAnimatedCheckBox = {
-            0x7f01000e, 0x7f01000f
+            0x7f010000, 0x7f010001
         };
         /**
           <p>This symbol is the offset where the {@link com.dsht.kerneltweaker.R.attr#cb_color}
@@ -1630,10 +1655,10 @@ containing a value of this type.
            @see #SlidingMenu_viewBehind
          */
         public static final int[] SlidingMenu = {
-            0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003,
-            0x7f010004, 0x7f010005, 0x7f010006, 0x7f010007,
-            0x7f010008, 0x7f010009, 0x7f01000a, 0x7f01000b,
-            0x7f01000c, 0x7f01000d
+            0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005,
+            0x7f010006, 0x7f010007, 0x7f010008, 0x7f010009,
+            0x7f01000a, 0x7f01000b, 0x7f01000c, 0x7f01000d,
+            0x7f01000e, 0x7f01000f
         };
         /**
           <p>This symbol is the offset where the {@link com.dsht.kerneltweaker.R.attr#behindOffset}
